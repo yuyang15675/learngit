@@ -1,0 +1,6 @@
+1.i like java
+
+2.java is my life
+
+Git is a version control system.
+Git is free software.
